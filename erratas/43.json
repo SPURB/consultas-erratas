@@ -3,20 +3,152 @@
 	"urlConsulta": "http://participe.gestaourbana.prefeitura.sp.gov.br/setor-central-2/",
 	"erros": [
 		{
-			"id": 0,
-			"atualizacao": "2019-05-10",
+			"id": 1,
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
-				"conteudo": "Potenciais eixos de estruturação da transformação urbana"
+				"conteudo": "ÁREA DE PROJETO: 2.090 ha"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "ÁREA DE PROJETO: 2.098 ha"
+			}
+		},
+		{
+			"id": 2,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "EM MÉDIA, 257.305 PESSOAS VÃO AO CENTRO TODOS OS DIAS, MAIS DA METADE VAI A TRABALHO"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "EM MÉDIA, 2.057.305 PESSOAS VÃO AO CENTRO TODOS OS DIAS, MAIS DA METADE VAI A TRABALHO"
+			}
+		},
+		{
+			"id": 3,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Novas áreas de adensamento populacional"
 			},
 			"conteudoNovo": { 
-				"tipo": "texto ",
-				"conteudo": "Novas áreas de adensamento populacional"
+				"tipo": "texto",
+				"conteudo": "Potenciais eixos de estruturação da transformação urbana"
 			 }
 		},
 		{
-			"id": 1,
-			"atualizacao": "2019-05-10",
+			"id": 4,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Considerando os parâmetros estabelecidos para enquadramento das HIS e das Habitações de Mercado Popular – HMP, o Estoque de Potencial Construtivo Adicional para o uso residencial no âmbito do PIU do Setor Central tem a seguinte distribuição:"
+			},
+			"conteudoNovo": { 
+				"tipo": "texto",
+				"conteudo": ""
+			 }
+		},
+		{
+			"id": 5,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela1-antiga.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela1-2019-05-10.jpg"
+			 }
+		},
+		{
+			"id": 6,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Para o uso não residencial, bastante expressivo na região, propõe-se um estoque de potencial construtivo adicional ou de 200.000 m², algo em torno de 20% do estoque residencial total. Os estoques de potencial construtivo para o uso residencial, para HIS e para o uso não residencial somam 2.000.000 de metros quadrados."
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": ""
+			}
+		},
+		{
+			"id": 7,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "O PIU SETOR CENTRAL também reserva estoque de potencial construtivo adicional gratuito para os usos e eixos incentivados, correspondendo a 20% do potencial construtivo apurado."
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": ""
+			}
+		},
+		{
+			"id": 8,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "A estimativa de novos moradores considera apenas a produção de unidades residenciais em novas construções. O retrofit de edificações existentes, que não utilizará potencial construtivo adicional, não foi computado nessa estimativa."
+			}
+		},
+		{
+			"id": 9,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "Para definição do Estoque de Potencial Construtivo Adicional para o uso residencial, foram considerados os parâmetros estabelecidos para o enquadramento das HIS e das Habitações de Mercado Popular – HMP."
+			}
+		},
+		{
+			"id": 10,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "Para o uso não residencial, bastante expressivo na região, propõe-se um estoque de potencial construtivo de 400.000 m², em torno de 20% do estoque residencial total, sendo 200.000 m² de potencial construtivo oneroso e 200.000 m² de potencial construtivo gratuito para os usos e eixos incentivados."
+			}
+		},
+		{
+			"id": 11,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Desta forma, o estoque de potencial construtivo adicional, para os 20 anos de implantação do PIU SETOR CENTRAL é igual a 2.400.000 m², assim distribuídos:"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "Desta forma, o estoque de potencial construtivo adicional, para os 20 anos de implantação do PIU SETOR CENTRAL é igual a 2.200.000 m², assim distribuídos:"
+			}
+		},
+		{
+			"id": 12,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela2-antiga.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela2-2019-05-10.jpg"
+			 }
+		},
+		{
+			"id": 13,
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/img/distribuicao-estoque.png"
@@ -27,40 +159,28 @@
 			 }
 		},
 		{
-			"id": 2,
-			"atualizacao": "2019-05-10",
+			"id": 14,
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "imagem",
-				"conteudo": "criar imagem de tabela antiga id = 3"
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-minhocao_depois.jpg"
 			},
 			"conteudoNovo": { 
 				"tipo": "imagem",
-				"conteudo": "criar imagem de tabela nova id = 3"
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-minhocao_depois_2019-05-14.jpg"
 			 }
 		},
 		{
-			"id": 3,
-			"atualizacao": "2019-05-10",
+			"id": 15,
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "imagem",
-				"conteudo": "criar imagem de tabela antiga id = 4"
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf_depois.jpg"
 			},
 			"conteudoNovo": { 
 				"tipo": "imagem",
-				"conteudo": "criar imagem de tabela nova id = 4"
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf_depois_2019-05-14.jpg"
 			 }
-		},
-		{
-			"id": 4,
-			"atualizacao": "2019-05-10",
-			"conteudoAntigo": {
-				"tipo": "texto",
-				"conteudo": "Considerando os parâmetros estabelecidos para enquadramento das HIS e das Habitações de Mercado Popular – HMP, o Estoque de Potencial Construtivo Adicional para o uso residencial no âmbito do PIU do Setor Central tem a seguinte distribuição: ${id[3]} Para o uso não residencial, bastante expressivo na região, propõe-se um estoque de potencial construtivo adicional ou de 200.000 m², algo em torno de 20% do estoque residencial total. Os estoques de potencial construtivo para o uso residencial, para HIS e para o uso não residencial somam 2.000.000 de metros quadrados. O PIU SETOR CENTRAL também reserva estoque de potencial construtivo adicional gratuito para os usos e eixos incentivados, correspondendo a 20% do potencial construtivo apurado. Desta forma, o estoque de potencial construtivo adicional, para os 20 anos de implantação do PIU SETOR CENTRAL é igual a 2.400.000 m², assim distribuídos: ${id[4]}"
-			},
-			"conteudoNovo": { 
-				"tipo": "texto",
-				"conteudo": "${id[3]} A estimativa de novos moradores considera apenas a produção de unidades residenciais em novas construções. O retrofit de edificações existentes, que não utilizará potencial construtivo adicional, não foi computado nessa estimativa. Para definição do Estoque de Potencial Construtivo Adicional para o uso residencial, foram considerados os parâmetros estabelecidos para o enquadramento das HIS e das Habitações de Mercado Popular – HMP. Para o uso não residencial, bastante expressivo na região, propõe-se um estoque de potencial construtivo de 400.000 m², em torno de 20% do estoque residencial total, sendo 200.000 m² de potencial construtivo oneroso e 200.000 m² de potencial construtivo gratuito para os usos e eixos incentivados. - Desta forma, o estoque de potencial construtivo adicional, para os 20 anos de implantação do PIU SETOR CENTRAL é igual a 2.200.000 m², assim distribuídos: ${id[3]}"
-			}
 		}
 	]
 }
