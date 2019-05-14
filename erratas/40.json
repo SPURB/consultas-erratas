@@ -1,0 +1,54 @@
+{	
+	"descricao": "Lista de erros da consulta do chamamento do edital de concessão da cobertura do Edifício Martinelli",
+	"urlConsulta": "http://participe.gestaourbana.prefeitura.sp.gov.br/concessao-martinelli/",
+	"erros": [
+		{
+			"id": 1,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "16/05/2019"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "31/05/2019"
+			}
+		},
+		{
+			"id": 2,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Participe! No dia 12/04 (sexta-feira), às 15h00, a SP Urbanismo fará a apresentação da iniciativa, com rodada de perguntas e visitação no espaço objeto deste chamamento, sem prejuízo da realização de outras apresentações e visitas públicas, presenciais ou remotas. As inscrições são limitadas e para participar, é necessária a inscrição por meio do e-mail concessaomartinelli@spurbanismo.sp.gov.br"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": ""
+			}
+		},
+		{
+			"id": 3,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/concessao-martinelli/OM_ObservatorioMartinelli_Chamamento.pdf"
+			}
+		},
+		{
+			"id": 4,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/concessao-martinelli/Observatorio_Martinelli-M2.zip"
+			}
+		}
+	]
+}
