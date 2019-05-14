@@ -4,7 +4,7 @@
 	"erros": [
 		{
 			"id": 1,
-			"atualizacao": "2019-05-13",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "ÁREA DE PROJETO: 2.090 ha"
@@ -16,7 +16,7 @@
 		},
 		{
 			"id": 2,
-			"atualizacao": "2019-05-13",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "EM MÉDIA, 257.305 PESSOAS VÃO AO CENTRO TODOS OS DIAS, MAIS DA METADE VAI A TRABALHO"
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": 3,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "Novas áreas de adensamento populacional"
@@ -40,7 +40,7 @@
 		},
 		{
 			"id": 4,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "Considerando os parâmetros estabelecidos para enquadramento das HIS e das Habitações de Mercado Popular – HMP, o Estoque de Potencial Construtivo Adicional para o uso residencial no âmbito do PIU do Setor Central tem a seguinte distribuição:"
@@ -52,7 +52,7 @@
 		},
 		{
 			"id": 5,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela1-antiga.jpg"
@@ -64,7 +64,7 @@
 		},
 		{
 			"id": 6,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "Para o uso não residencial, bastante expressivo na região, propõe-se um estoque de potencial construtivo adicional ou de 200.000 m², algo em torno de 20% do estoque residencial total. Os estoques de potencial construtivo para o uso residencial, para HIS e para o uso não residencial somam 2.000.000 de metros quadrados."
@@ -76,7 +76,7 @@
 		},
 		{
 			"id": 7,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "O PIU SETOR CENTRAL também reserva estoque de potencial construtivo adicional gratuito para os usos e eixos incentivados, correspondendo a 20% do potencial construtivo apurado."
@@ -88,7 +88,7 @@
 		},
 		{
 			"id": 8,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": ""
@@ -100,7 +100,7 @@
 		},
 		{
 			"id": 9,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": ""
@@ -112,7 +112,7 @@
 		},
 		{
 			"id": 10,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": ""
@@ -124,7 +124,7 @@
 		},
 		{
 			"id": 11,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "texto",
 				"conteudo": "Desta forma, o estoque de potencial construtivo adicional, para os 20 anos de implantação do PIU SETOR CENTRAL é igual a 2.400.000 m², assim distribuídos:"
@@ -136,7 +136,7 @@
 		},
 		{
 			"id": 12,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela2-antiga.jpg"
@@ -148,7 +148,7 @@
 		},
 		{
 			"id": 13,
-			"atualizacao": "2019-05-10",
+			"atualizacao": "2019-05-14",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/img/distribuicao-estoque.png"
@@ -156,6 +156,30 @@
 			"conteudoNovo": { 
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/img/distribuicao-estoque_2019-05-10.png"
+			 }
+		},
+		{
+			"id": 14,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-minhocao_depois.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-minhocao_depois_2019-05-14.jpg"
+			 }
+		},
+		{
+			"id": 15,
+			"atualizacao": "2019-05-14",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf_depois.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf_depois_2019-05-14.jpg"
 			 }
 		}
 	]
