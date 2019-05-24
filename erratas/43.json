@@ -205,6 +205,18 @@
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_depois_2019-05-17.jpg"
 			 }
+		},
+		{
+			"id": 17,
+			"atualizacao": "2019-05-24",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela-grupogestor-antiga.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela-grupogestor-2019-05-24.jpg"
+			 }
 		}
 	]
 }
