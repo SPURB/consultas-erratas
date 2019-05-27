@@ -1,6 +1,6 @@
 {	
 	"descricao": "Lista de erros da consulta do PIU Setor 2",
-	"urlConsulta": "http://participe.gestaourbana.prefeitura.sp.gov.br/setor-central-2/",
+	"urlConsulta": "https://participe.gestaourbana.prefeitura.sp.gov.br/setor-central-2/",
 	"erros": [
 		{
 			"id": 1,
@@ -172,14 +172,50 @@
 		},
 		{
 			"id": 15,
-			"atualizacao": "2019-05-14",
+			"atualizacao": "2019-05-15",
 			"conteudoAntigo": {
 				"tipo": "imagem",
-				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf_depois.jpg"
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-ordena-paisa-4_depois.jpg"
 			},
 			"conteudoNovo": { 
 				"tipo": "imagem",
-				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf_depois_2019-05-14.jpg"
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-ordena-paisa-4_depois_2019-05-15.jpg"
+			 }
+		},
+		{
+			"id": 16,
+			"atualizacao": "2019-05-17",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_antes.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_antes_2019-05-17.jpg"
+			 }
+		},
+		{
+			"id": 16,
+			"atualizacao": "2019-05-17",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_depois.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_depois_2019-05-17.jpg"
+			 }
+		},
+		{
+			"id": 17,
+			"atualizacao": "2019-05-24",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela-grupogestor-antiga.jpg"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela-grupogestor-2019-05-24.jpg"
 			 }
 		}
 	]
