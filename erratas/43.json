@@ -136,7 +136,7 @@
 		},
 		{
 			"id": 12,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela2-antiga.jpg"
@@ -148,7 +148,7 @@
 		},
 		{
 			"id": 13,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/img/distribuicao-estoque.png"
@@ -184,7 +184,7 @@
 		},
 		{
 			"id": 16,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_antes.jpg"
@@ -196,7 +196,7 @@
 		},
 		{
 			"id": 16,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/eixo-transf-orla_depois.jpg"
@@ -208,7 +208,7 @@
 		},
 		{
 			"id": 17,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/tabela-grupogestor-antiga.jpg"
@@ -220,7 +220,7 @@
 		},
 		{
 			"id": 18,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
 				"tipo": "imagem",
 				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/errata/estrategias-antiga.png"
@@ -232,14 +232,26 @@
 		},
 		{
 			"id": 19,
-			"atualizacao": "2019-05-29",
+			"atualizacao": "2019-05-30",
 			"conteudoAntigo": {
-				"tipo": "texo",
+				"tipo": "texto",
 				"conteudo": "C = ( At / Ac ) × X × Fs × Fp"
 			},
 			"conteudoNovo": { 
 				"tipo": "texto",
 				"conteudo": "C = ( At / Ac ) × V × Fs × Fp"
+			 }
+		},
+		{
+			"id": 20,
+			"atualizacao": "2019-05-30",
+			"conteudoAntigo": {
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/t2_2.png"
+			},
+			"conteudoNovo": { 
+				"tipo": "imagem",
+				"conteudo": "https://participe.gestaourbana.prefeitura.sp.gov.br/arquivos/setor-central-2/antes-depois/t2_3.png"
 			 }
 		}
 	]
