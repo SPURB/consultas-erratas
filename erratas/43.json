@@ -234,7 +234,7 @@
 			"id": 19,
 			"atualizacao": "2019-05-29",
 			"conteudoAntigo": {
-				"tipo": "texo",
+				"tipo": "texto",
 				"conteudo": "C = ( At / Ac ) × X × Fs × Fp"
 			},
 			"conteudoNovo": { 
