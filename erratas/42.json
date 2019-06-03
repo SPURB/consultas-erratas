@@ -1,0 +1,18 @@
+{	
+	"descricao": "Lista de atualizações da consulta Audiências Públicas para Plano Cicloviário",
+	"urlConsulta": "https://participe.gestaourbana.prefeitura.sp.gov.br/plano-cicloviario/",
+	"erros": [
+		{
+			"id": 1,
+			"atualizacao": "2019-05-30",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "Plano Cicloviário do Município de São Paulo - 2019"
+			}
+		}
+	]
+}
