@@ -1,0 +1,54 @@
+{	
+	"descricao": "Lista de erratas da Minuta PIU Arco Pinheiros",
+	"urlConsulta": "https://participe.gestaourbana.prefeitura.sp.gov.br/minuta-arco-pinheiros/",
+	"erros": [
+		{
+			"id": 1,
+			"atualizacao": "2019-06-06",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Esta lei entrará em vigor na data de sua publicação, revogadas as Leis:"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "Esta lei entrará em vigor na data de sua publicação, revogados:"
+			}
+		},
+		{
+			"id": 2,
+			"atualizacao": "2019-06-06",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Lei nº 7.792, de 29 de setembro de 1972;"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "a Lei nº 15.160 de 17 de Maio de 2010;"
+			}
+		},
+		{
+			"id": 3,
+			"atualizacao": "2019-06-06",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "Lei nº 15.160 de 17 de Maio de 2010."
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "a Lei nº 15.160 de 17 de Maio de 2010."
+			}
+		},
+		{
+			"id": 4,
+			"atualizacao": "2019-06-06",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": ""
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "o inc. IV do art. 159 da Lei n. 16.402/2016-LPUOS."
+			}
+		}
+	]
+}
