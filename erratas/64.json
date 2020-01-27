@@ -1,0 +1,18 @@
+{	
+	"descricao": "Lista de erratas da segunda consulta do PIU Arco Tietê",
+	"urlConsulta": "https://participe.gestaourbana.prefeitura.sp.gov.br/arco-tiete-2",
+	"erros": [
+		{
+			"id": 1,
+			"atualizacao": "2019-01-27",
+			"conteudoAntigo": {
+				"tipo": "texto",
+				"conteudo": "4"
+			},
+			"conteudoNovo": {
+				"tipo": "texto",
+				"conteudo": "2"
+			}
+		}
+	]
+}
